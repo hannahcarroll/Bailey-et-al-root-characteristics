@@ -1,0 +1,119 @@
+#NEXUS
+[R-package PHYTOOLS, Wed Sep 13 10:59:33 2017]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 53;
+	TAXLABELS
+		Anomochloa_marantoidea
+		Aristida_purpurea
+		Arundinaria_gigantea
+		Arundinella_deppeana
+		Bambusa_bambose
+		Bouteloua_gracilis
+		Brachyelytrum_aristosum
+		Bromus_vulgaris
+		Centotheca_lappacea
+		Centropodia_glauca
+		Chasmanthium_laxum
+		Chionochloa_macra
+		Chusquea_circinata
+		Cortaderia_selloana
+		Danthonia_californica
+		Diarrhena_obovata
+		Digitaria_exilis
+		Diheteropogon_amplectens
+		Distichlis_spicata
+		Ehrharta_bulbosa
+		Eleusine_indica
+		Elytrophorus_spicatus
+		Eragrostis_tef
+		Eriachne_stipacea
+		Eustachys_glauca
+		Isachne_distichophylla
+		Leersia_tisserantii
+		Leptaspis_zeylanica
+		Melica_subulata
+		Nardus_stricta
+		Neyraudia_reynaudiana
+		Olyra_latifolia
+		Oplismenus_hirtellus
+		Oryza_sativa
+		Otatea_acuminata
+		Panicum_virgatum
+		Pariana_radiciflora
+		Patis_racemosa
+		Pharus_latifolius
+		Phragmites_australis
+		Phyllostachys_aurea
+		Poa_palustris
+		Raddia_brasiliensis
+		Rytidosperma_semiannulare
+		Setaria_viridis
+		Sorghum_bicolor
+		Steinchisma_laxum
+		Stipagrostis_hirtiglumis
+		Streptochaeta_spicata
+		Streptogyna_americana
+		Triticum_turgidum
+		Urochloa_reptans
+		Zea_mays
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Anomochloa_marantoidea,
+		2	Aristida_purpurea,
+		3	Arundinaria_gigantea,
+		4	Arundinella_deppeana,
+		5	Bambusa_bambose,
+		6	Bouteloua_gracilis,
+		7	Brachyelytrum_aristosum,
+		8	Bromus_vulgaris,
+		9	Centotheca_lappacea,
+		10	Centropodia_glauca,
+		11	Chasmanthium_laxum,
+		12	Chionochloa_macra,
+		13	Chusquea_circinata,
+		14	Cortaderia_selloana,
+		15	Danthonia_californica,
+		16	Diarrhena_obovata,
+		17	Digitaria_exilis,
+		18	Diheteropogon_amplectens,
+		19	Distichlis_spicata,
+		20	Ehrharta_bulbosa,
+		21	Eleusine_indica,
+		22	Elytrophorus_spicatus,
+		23	Eragrostis_tef,
+		24	Eriachne_stipacea,
+		25	Eustachys_glauca,
+		26	Isachne_distichophylla,
+		27	Leersia_tisserantii,
+		28	Leptaspis_zeylanica,
+		29	Melica_subulata,
+		30	Nardus_stricta,
+		31	Neyraudia_reynaudiana,
+		32	Olyra_latifolia,
+		33	Oplismenus_hirtellus,
+		34	Oryza_sativa,
+		35	Otatea_acuminata,
+		36	Panicum_virgatum,
+		37	Pariana_radiciflora,
+		38	Patis_racemosa,
+		39	Pharus_latifolius,
+		40	Phragmites_australis,
+		41	Phyllostachys_aurea,
+		42	Poa_palustris,
+		43	Raddia_brasiliensis,
+		44	Rytidosperma_semiannulare,
+		45	Setaria_viridis,
+		46	Sorghum_bicolor,
+		47	Steinchisma_laxum,
+		48	Stipagrostis_hirtiglumis,
+		49	Streptochaeta_spicata,
+		50	Streptogyna_americana,
+		51	Triticum_turgidum,
+		52	Urochloa_reptans,
+		53	Zea_mays
+	;
+	TREE * UNTITLED = [&R] ((1:73.04043,49:73.04043)55:43.186863,((28:21.501377,39:21.501377)57:85.818802,(((50:79.482296,(20:72.091965,(27:26.190142,34:26.190142)62:45.901822)61:7.390332)60:4.27335,(((3:7.025595,41:7.025594)65:50.255956,((37:34.604533,(43:21.04415,32:21.04415)68:13.560383)67:13.050342,(5:25.207041,(13:23.947475,35:23.947475)70:1.259565)69:22.447835)66:9.626676)64:21.896263,(7:70.897444,(30:63.229098,(29:53.674833,(38:51.841798,(16:46.294472,((8:22.041911,51:22.041911)77:17.975252,42:40.017163)76:6.277309)75:5.547326)74:1.833035)73:9.554265)72:7.668347)71:8.280369)63:4.577833)59:4.479333,(((2:42.276988,48:42.276988)80:25.275467,(((22:46.538786,40:46.538786)83:11.307481,(24:22.816411,26:22.816411)84:35.029858)82:6.743908,((12:36.770431,(14:25.760259,(15:19.886544,44:19.886544)88:5.873715)87:11.010172)86:23.831001,(10:54.797634,(31:45.718414,(23:41.334908,((6:20.289246,19:20.289246)93:8.479753,(21:17.409561,25:17.40956)94:11.359438)92:12.565908)91:4.383507)90:9.079219)89:5.803798)85:3.988744)81:2.962279)79:1.854266,(9:53.94463,(11:53.353696,((17:32.419688,(33:30.83811,(36:26.041477,(45:23.19974,52:23.199739)101:2.841736)100:4.796633)99:1.581578)98:7.978078,(47:37.183048,(4:27.73146,(53:16.629488,(46:11.190222,18:11.190222)105:5.439266)104:11.101973)103:9.451587)102:3.214718)97:12.95593)96:0.590934)95:15.462091)78:18.828257)58:19.0852)56:8.907114)54;
+END;
