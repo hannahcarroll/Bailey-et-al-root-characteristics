@@ -1,90 +1,86 @@
-Group,Xvar,Fillvar,Df,SS,MS,Rsq,Rsq.Pct,F,Z,Pr(>F),Sig level
-Endodermal,Mean.Endodermal.Diameter,CoV Endodermal Diameter,1,1.4438,1.4438,0.058348,5.8348,6.5573,1.3164,0.023,*
-Endodermal,Mean.Endodermal.Diameter,CoV Endodermal Thickening,1,2.4766,2.4766,0.10009,10.009,11.2482,1.3966,0.011,*
-Endodermal,Mean.Endodermal.Diameter,Mean Endodermal Thickening,1,4.9946,4.9946,0.201849,20.1849,22.6842,1.884,0.002,**
-Endodermal,Mean.Endodermal.Diameter,Metaxylem to Stele Ratio,1,2.8127,2.8127,0.113673,11.3673,12.7748,1.5963,0.001,**
-Endodermal,Mean.Endodermal.Diameter,Photosynthetic Type,1,0.964,0.964,0.038957,3.8957,4.3781,1.4903,0.012,*
-Endodermal,Mean.Endodermal.Diameter,Number of Metaxylem Vessels,1,0.9283,0.9283,0.037516,3.7516,4.2161,1.3024,0.02,*
-Endodermal,Mean.Endodermal.Diameter,Precip Wet Quarter,1,0.457,0.457,0.018469,1.8469,2.0756,1.1558,0.056,.
-Endodermal,Mean.Endodermal.Diameter,Number of Metaxylem Vessels:Precip Wet Quarter,1,0.9792,0.9792,0.039575,3.9575,4.4475,1.3747,0.011,*
-Endodermal,Mean.Endodermal.Diameter,Unexplained,,,,0.391523,39.1523,,,,
-Endodermal,CoV.Endodermal.Diameter,Precip Dry Week,1,0.0001651,0.00016513,0.048333,4.8333,3.6327,0.95092,0.145,
-Endodermal,CoV.Endodermal.Diameter,Precip Wet Quarter,1,0.0000572,0.00005721,0.016745,1.6745,1.2586,0.60618,0.307,
-Endodermal,CoV.Endodermal.Diameter,Mean Endodermal Thickening,1,0.0002901,0.00029008,0.084904,8.4904,6.3815,1.27391,0.025,*
-Endodermal,CoV.Endodermal.Diameter,Precip Dry Week:Precip Wet Quarter,1,0.0007222,0.00072223,0.211388,21.1388,15.8881,1.77243,0.003,**
-Endodermal,CoV.Endodermal.Diameter,Unexplained,,,,0.63863,63.863,,,,
-Endodermal,Mean.Endodermal.Thickening,CoV Endodermal Diameter,1,1.0657,1.06571,0.065318,6.5318,4.0585,1.20743,0.047,*
-Endodermal,Mean.Endodermal.Thickening,Mean Metaxylem Area,1,2.0237,2.02375,0.124038,12.4038,7.7069,1.4837,0.015,*
-Endodermal,Mean.Endodermal.Thickening,Mean Annual Temperature,1,0.103,0.10299,0.006312,0.6312,0.3922,0.15699,0.537,
-Endodermal,Mean.Endodermal.Thickening,Subfamily,10,1.1602,0.11602,0.071112,7.1112,0.4418,1.42037,0.077,.
-Endodermal,Mean.Endodermal.Thickening,Mean Annual Temperature:Subfamily,10,4.3479,0.43479,0.266486,26.6486,1.6558,1.91881,0.014,*
-Endodermal,Mean.Endodermal.Thickening,Unexplained,,,,0.466734,46.6734,,,,
-Endodermal,CoV.Endodermal.Thickening,Photosynthetic Type,1,0.000354,0.000354,0.030488,3.0488,2.2137,0.97883,0.117,
-Endodermal,CoV.Endodermal.Thickening,Mean Moisture Index Wet Quarter,1,0.0000351,0.0000351,0.003024,0.3024,0.2195,-0.19054,0.681,
-Endodermal,CoV.Endodermal.Thickening,Annual Precip,1,0.0035145,0.0035145,0.302712,30.2712,21.9796,1.88617,0.001,**
-Endodermal,CoV.Endodermal.Thickening,Photosynthetic Type:Mean Moisture Index Wet Quarter,1,0.0000313,0.0000313,0.0027,0.27,0.196,-0.0944,0.632,
-Endodermal,CoV.Endodermal.Thickening,Unexplained,,,,0.661076,66.1076,,,,
-Endodermal,Number.of.Endodermal.Layers,Total Metaxylem Area,1,6.763,6.7626,0.12476,12.476,10.4954,1.6668,0.025,*
-Endodermal,Number.of.Endodermal.Layers,CoV Metaxylem Area,1,3.735,3.7349,0.068904,6.8904,5.7965,1.2855,0.03,*
-Endodermal,Number.of.Endodermal.Layers,Annual Mean Radiation,1,5.731,5.7306,0.105722,10.5722,8.8938,1.3767,0.01,*
-Endodermal,Number.of.Endodermal.Layers,Photosynthetic Type,1,3.702,3.7018,0.068294,6.8294,5.7452,1.3408,0.019,*
-Endodermal,Number.of.Endodermal.Layers,Annual Mean Radiation:Photosynthetic Type,1,3.991,3.9907,0.073623,7.3623,6.1935,1.4026,0.026,*
-Endodermal,Number.of.Endodermal.Layers,Unexplained,,,,0.558697,55.8697,,,,
-Vascular,Mean.Metaxylem.Area,Mean Endodermal Thickening,1,288994,288994,0.15423,15.423,267.3928,2.8274,0.001,**
-Vascular,Mean.Metaxylem.Area,Subfamily,10,77781,7778,0.04151,4.151,7.1967,4.4347,0.001,**
-Vascular,Mean.Metaxylem.Area,Mean Metaxylem Diameter,1,1243787,1243787,0.66376,66.376,1150.8171,3.6869,0.001,**
-Vascular,Mean.Metaxylem.Area,Subfamily:Mean Metaxylem Diameter,10,230863,23086,0.1232,12.32,21.3606,5.8345,0.001,**
-Vascular,Mean.Metaxylem.Area,Unexplained,,,,0.0173,1.73,,,,
-Vascular,CoV.Metaxylem.Area,Mean Metaxylem Area,1,0.001326,0.00132597,0.08216,8.216,4.7556,1.1167,0.053,.
-Vascular,CoV.Metaxylem.Area,Subfamily,10,0.0015263,0.00015263,0.094572,9.4572,0.5474,1.6943,0.044,*
-Vascular,CoV.Metaxylem.Area,Max Temp Warmest Week,1,0.0021337,0.00213369,0.132208,13.2208,7.6525,1.3967,0.016,*
-Vascular,CoV.Metaxylem.Area,Unexplained,,,,0.69106,69.106,,,,
-Vascular,Mean.Metaxylem.Diameter,Mean Metaxylem Area,1,229.653,229.653,0.80698,80.698,667.32,3.3054,0.001,**
-Vascular,Mean.Metaxylem.Diameter,CoV Metaxylem Diameter,1,37.723,37.723,0.13255,13.255,109.61,3.6147,0.001,**
-Vascular,Mean.Metaxylem.Diameter,Unexplained,,,,0.06047,6.047,,,,
-Vascular,CoV.Metaxylem.Diameter,CoV Metaxylem Area,1,0.006491,0.0064912,0.09452,9.452,2325.47,3.6161,0.001,**
-Vascular,CoV.Metaxylem.Diameter,Mean Metaxylem Diameter,1,0.005931,0.005931,0.086363,8.6363,2124.77,3.2673,0.001,**
-Vascular,CoV.Metaxylem.Diameter,Metaxylem to Stele Ratio,1,0.002226,0.0022262,0.032416,3.2416,797.52,3.0178,0.001,**
-Vascular,CoV.Metaxylem.Diameter,Subfamily,10,0.014089,0.0014089,0.205158,20.5158,504.75,3.8467,0.001,**
-Vascular,CoV.Metaxylem.Diameter,Stele Diameter,1,0.007491,0.0074907,0.109074,10.9074,2683.53,3.5744,0.001,**
-Vascular,CoV.Metaxylem.Diameter,Total Metaxylem Area,1,0.002527,0.0025267,0.036792,3.6792,905.2,3.2883,0.001,**
-Vascular,CoV.Metaxylem.Diameter,Mean Metaxylem Diameter:Metaxylem to Stele Ratio,1,0.009077,0.0090773,0.132177,13.2177,3251.93,3.8822,0.001,**
-Vascular,CoV.Metaxylem.Diameter,Subfamily:Stele Diameter,10,0.02077,0.002077,0.302443,30.2443,744.1,5.2902,0.001,**
-Vascular,CoV.Metaxylem.Diameter,Unexplained,,,,0.001057,0.1057,,,,
-Vascular,Total.Metaxylem.Area,Stele Diameter,1,147568456,147568456,0.81607,81.607,6677.59,4.1154,0.001,**
-Vascular,Total.Metaxylem.Area,Metaxylem to Stele Ratio,1,17066342,17066342,0.09438,9.438,772.27,4.1507,0.001,**
-Vascular,Total.Metaxylem.Area,Mean Metaxylem Area,1,3823765,3823765,0.02115,2.115,173.03,3.7467,0.001,**
-Vascular,Total.Metaxylem.Area,Number of Metaxylem Vessels,1,3747887,3747887,0.02073,2.073,169.59,4.0874,0.001,**
-Vascular,Total.Metaxylem.Area,Mean Metaxylem Area:Number of Metaxylem Vessels,1,7583883,7583883,0.04194,4.194,343.18,4.1877,0.001,**
-Vascular,Total.Metaxylem.Area,Unexplained,,,,0.00573,0.573,,,,
-Vascular,Number.of.Metaxylem.Vessels,Total Metaxylem Area,1,5.7961,5.7961,0.245607,24.5607,59.2942,2.4083,0.001,**
-Vascular,Number.of.Metaxylem.Vessels,Mean Metaxylem Diameter,1,6.4827,6.4827,0.274699,27.4699,66.3176,2.2936,0.001,**
-Vascular,Number.of.Metaxylem.Vessels,Mean Metaxylem Area,1,1.6837,1.6837,0.071347,7.1347,17.2245,1.9499,0.003,**
-Vascular,Number.of.Metaxylem.Vessels,CoV Metaxylem Diameter,1,2.1597,2.1597,0.091516,9.1516,22.0937,2.1386,0.001,**
-Vascular,Number.of.Metaxylem.Vessels,Subfamily,10,1.6523,0.1652,0.070013,7.0013,1.6903,3.2486,0.001,**
-Vascular,Number.of.Metaxylem.Vessels,Mean Endodermal Diameter,1,0.8955,0.8955,0.037946,3.7946,9.161,2.0994,0.001,**
-Vascular,Number.of.Metaxylem.Vessels,Subfamily:Mean Endodermal Diameter,10,1.3861,0.1386,0.058736,5.8736,1.418,3.0945,0.001,**
-Vascular,Number.of.Metaxylem.Vessels,Mean Metaxylem Diameter:Subfamily,5,1.3925,0.2785,0.059007,5.9007,2.8491,4.0575,0.001,**
-Vascular,Number.of.Metaxylem.Vessels,Unexplained,,,,0.091129,9.1129,,,,
-Vascular,Metaxylem.to.Stele.Ratio,Stele Area,1,0.0004834,0.00048339,0.12009,12.009,93.8694,2.4315,0.001,**
-Vascular,Metaxylem.to.Stele.Ratio,Subfamily,10,0.0002913,0.00002913,0.07237,7.237,5.6571,5.7176,0.001,**
-Vascular,Metaxylem.to.Stele.Ratio,Total Metaxylem Area,1,0.0004869,0.00048687,0.12096,12.096,94.5445,2.6622,0.001,**
-Vascular,Metaxylem.to.Stele.Ratio,Stele Diameter,1,0.0017284,0.00172845,0.42941,42.941,335.6467,3.2475,0.001,**
-Vascular,Metaxylem.to.Stele.Ratio,Stele Area:Subfamily,10,0.0004686,0.00004686,0.11643,11.643,9.1004,7.0483,0.001,**
-Vascular,Metaxylem.to.Stele.Ratio,Total Metaxylem Area:Stele Diameter,1,0.0004223,0.00042234,0.10492,10.492,82.0134,3.6689,0.001,**
-Vascular,Metaxylem.to.Stele.Ratio,Unexplained,,,,0.03582,3.582,,,,
-Vascular,Stele.Area,Stele Diameter,1,5.92E+10,5.92E+10,0.9226,92.26,966.3952,3.4085,0.001,**
-Vascular,Stele.Area,Subfamily,10,2.29E+08,2.29E+07,0.00356,0.356,0.3733,3.8382,0.002,**
-Vascular,Stele.Area,Stele Diameter:Subfamily,10,2.84E+09,2.84E+08,0.04424,4.424,4.6345,5.2626,0.001,**
-Vascular,Stele.Area,Unexplained,,,,0.0296,2.96,,,,
-Vascular,Stele.Diameter,Stele Area,1,57990,57990,0.9226,92.26,897.7183,3.5154,0.001,**
-Vascular,Stele.Diameter,Subfamily,10,338,34,0.00537,0.537,0.523,5.7713,0.001,**
-Vascular,Stele.Diameter,Stele Area:Subfamily,10,2525,252,0.04017,4.017,3.9086,6.7356,0.001,**
-Vascular,Stele.Diameter,Unexplained,,,,0.03186,3.186,,,,
-Vascular,Median.Cells.per.Phloem.Cluster,Annual Mean Radiation,1,0.19728,0.19728,0.07836,7.836,10.4046,1.4344,0.021,*
-Vascular,Median.Cells.per.Phloem.Cluster,Mean Moisture Index Coldest Quarter,1,0.13948,0.13948,0.05541,5.541,7.3565,1.3237,0.038,*
-Vascular,Median.Cells.per.Phloem.Cluster,Precip Wet Week,1,0.46598,0.46598,0.18509,18.509,24.576,1.9577,0.001,**
-Vascular,Median.Cells.per.Phloem.Cluster,Subfamily,10,0.17114,0.01711,0.06798,6.798,0.9026,1.9627,0.028,*
-Vascular,Median.Cells.per.Phloem.Cluster,Mean Moisture Index Wet Quarter,1,0.00699,0.00699,0.00277,0.277,0.3684,0.2876,0.467,
-Vascular,Median.Cells.per.Phloem.Cluster,Subfamily:Mean Moisture Index Wet Quarter,10,1.00576,0.10058,0.3995,39.95,5.3045,3.2651,0.001,**
-Vascular,Median.Cells.per.Phloem.Cluster,Unexplained,,,,0.21089,21.089,,,,
+Xvar,Fillvar,Group,Df,SS,MS,Rsq,Rsq.Pct,F,Z,Pr(>F),Sig level
+Mean.Endodermal.Diameter,CoV Endodermal Diameter,Endodermal,1,1.4438,1.4438,0.058348,5.8348,6.5573,1.3164,0.023,*
+Mean.Endodermal.Diameter,CoV Endodermal Thickening,Endodermal,1,2.4766,2.4766,0.10009,10.009,11.2482,1.3966,0.011,*
+Mean.Endodermal.Diameter,Mean Endodermal Thickening,Endodermal,1,4.9946,4.9946,0.201849,20.1849,22.6842,1.884,0.002,**
+Mean.Endodermal.Diameter,Metaxylem to Stele Ratio,Endodermal,1,2.8127,2.8127,0.113673,11.3673,12.7748,1.5963,0.001,**
+Mean.Endodermal.Diameter,Photosynthetic Type,Endodermal,1,0.964,0.964,0.038957,3.8957,4.3781,1.4903,0.012,*
+Mean.Endodermal.Diameter,Number of Metaxylem Vessels,Endodermal,1,0.9283,0.9283,0.037516,3.7516,4.2161,1.3024,0.02,*
+Mean.Endodermal.Diameter,Precip Wettest Quarter,Endodermal,1,0.457,0.457,0.018469,1.8469,2.0756,1.1558,0.056,.
+Mean.Endodermal.Diameter,Number of Metaxylem Vessels:Precip Wettest Quarter,Endodermal,1,0.9792,0.9792,0.039575,3.9575,4.4475,1.3747,0.011,*
+Mean.Endodermal.Diameter,Unexplained,Endodermal,,,,0.391523,39.1523,,,,
+CoV.Endodermal.Diameter,Mean Endodermal Thickening,Endodermal,1,0.0002901,0.00029008,0.084904,8.4904,6.3815,1.27391,0.025,*
+CoV.Endodermal.Diameter,Precip Driest Week:Precip Wettest Quarter,Endodermal,1,0.0007222,0.00072223,0.211388,21.1388,15.8881,1.77243,0.003,**
+CoV.Endodermal.Diameter,Unexplained,Endodermal,,,,0.63863,63.863,,,,
+Mean.Endodermal.Thickening,CoV Endodermal Diameter,Endodermal,1,1.0657,1.06571,0.065318,6.5318,4.0585,1.20743,0.047,*
+Mean.Endodermal.Thickening,Mean Metaxylem Area,Endodermal,1,2.0237,2.02375,0.124038,12.4038,7.7069,1.4837,0.015,*
+Mean.Endodermal.Thickening,Subfamily,Endodermal,10,1.1602,0.11602,0.071112,7.1112,0.4418,1.42037,0.077,.
+Mean.Endodermal.Thickening,Mean Annual Temp:Subfamily,Endodermal,10,4.3479,0.43479,0.266486,26.6486,1.6558,1.91881,0.014,*
+Mean.Endodermal.Thickening,Unexplained,Endodermal,,,,0.466734,46.6734,,,,
+CoV.Endodermal.Thickening,Mean Endodermal Diameter,Endodermal,1,0.0010011,0.00100111,0.086229,8.6229,6.0785,1.2077,0.047,*
+CoV.Endodermal.Thickening,CoV Metaxylem Area,Endodermal,1,0.0009822,0.00098218,0.084598,8.4598,5.9635,1.2961,0.031,*
+CoV.Endodermal.Thickening,Mean Endodermal Thickening,Endodermal,1,0.0008697,0.00086969,0.074909,7.4909,5.2805,1.18,0.042,*
+CoV.Endodermal.Thickening,Precip Dry Quarter,Endodermal,1,0.0008515,0.00085151,0.073343,7.3343,5.1701,1.1827,0.047,*
+CoV.Endodermal.Thickening,Unexplained,Endodermal,,,,0.680921,68.0921,,,,
+Number.of.Endodermal.Layers,Total Metaxylem Area,Endodermal,1,6.763,6.7626,0.12476,12.476,10.4954,1.6668,0.025,*
+Number.of.Endodermal.Layers,CoV Metaxylem Area,Endodermal,1,3.735,3.7349,0.068904,6.8904,5.7965,1.2855,0.03,*
+Number.of.Endodermal.Layers,Annual Mean Radiation,Endodermal,1,5.731,5.7306,0.105722,10.5722,8.8938,1.3767,0.01,*
+Number.of.Endodermal.Layers,Photosynthetic Type,Endodermal,1,3.702,3.7018,0.068294,6.8294,5.7452,1.3408,0.019,*
+Number.of.Endodermal.Layers,Annual Mean Radiation:Photosynthetic Type,Endodermal,1,3.991,3.9907,0.073623,7.3623,6.1935,1.4026,0.026,*
+Number.of.Endodermal.Layers,Unexplained,Endodermal,,,,0.558697,55.8697,,,,
+Stele.Area,Stele Diameter,Stele,1,5.92E+10,5.92E+10,0.9226,92.26,966.3952,3.4085,0.001,**
+Stele.Area,Subfamily,Stele,10,2.29E+08,2.29E+07,0.00356,0.356,0.3733,3.8382,0.002,**
+Stele.Area,Stele Diameter:Subfamily,Stele,10,2.84E+09,2.84E+08,0.04424,4.424,4.6345,5.2626,0.001,**
+Stele.Area,Unexplained,Stele,,,,0.0296,2.96,,,,
+Stele.Diameter,Stele Area,Stele,1,57990,57990,0.9226,92.26,897.7183,3.5154,0.001,**
+Stele.Diameter,Subfamily,Stele,10,338,34,0.00537,0.537,0.523,5.7713,0.001,**
+Stele.Diameter,Stele Area:Subfamily,Stele,10,2525,252,0.04017,4.017,3.9086,6.7356,0.001,**
+Stele.Diameter,Unexplained,Stele,,,,0.03186,3.186,,,,
+Mean.Metaxylem.Area,Mean Endodermal Thickening,Stele,1,288994,288994,0.15423,15.423,267.3928,2.8274,0.001,**
+Mean.Metaxylem.Area,Subfamily,Stele,10,77781,7778,0.04151,4.151,7.1967,4.4347,0.001,**
+Mean.Metaxylem.Area,Mean Metaxylem Diameter,Stele,1,1243787,1243787,0.66376,66.376,1150.8171,3.6869,0.001,**
+Mean.Metaxylem.Area,Subfamily:Mean Metaxylem Diameter,Stele,10,230863,23086,0.1232,12.32,21.3606,5.8345,0.001,**
+Mean.Metaxylem.Area,Unexplained,Stele,,,,0.0173,1.73,,,,
+CoV.Metaxylem.Area,Mean Metaxylem Area,Stele,1,0.001326,0.00132597,0.08216,8.216,4.7556,1.1167,0.053,.
+CoV.Metaxylem.Area,Subfamily,Stele,10,0.0015263,0.00015263,0.094572,9.4572,0.5474,1.6943,0.044,*
+CoV.Metaxylem.Area,Max Temp Warmest Week,Stele,1,0.0021337,0.00213369,0.132208,13.2208,7.6525,1.3967,0.016,*
+CoV.Metaxylem.Area,Unexplained,Stele,,,,0.69106,69.106,,,,
+Mean.Metaxylem.Diameter,Mean Metaxylem Area,Stele,1,229.653,229.653,0.80698,80.698,667.32,3.3054,0.001,**
+Mean.Metaxylem.Diameter,CoV Metaxylem Diameter,Stele,1,37.723,37.723,0.13255,13.255,109.61,3.6147,0.001,**
+Mean.Metaxylem.Diameter,Unexplained,Stele,,,,0.06047,6.047,,,,
+CoV.Metaxylem.Diameter,CoV Metaxylem Area,Stele,1,0.006491,0.0064912,0.09452,9.452,2325.47,3.6161,0.001,**
+CoV.Metaxylem.Diameter,Mean Metaxylem Diameter,Stele,1,0.005931,0.005931,0.086363,8.6363,2124.77,3.2673,0.001,**
+CoV.Metaxylem.Diameter,Metaxylem to Stele Ratio,Stele,1,0.002226,0.0022262,0.032416,3.2416,797.52,3.0178,0.001,**
+CoV.Metaxylem.Diameter,Subfamily,Stele,10,0.014089,0.0014089,0.205158,20.5158,504.75,3.8467,0.001,**
+CoV.Metaxylem.Diameter,Stele Diameter,Stele,1,0.007491,0.0074907,0.109074,10.9074,2683.53,3.5744,0.001,**
+CoV.Metaxylem.Diameter,Total Metaxylem Area,Stele,1,0.002527,0.0025267,0.036792,3.6792,905.2,3.2883,0.001,**
+CoV.Metaxylem.Diameter,Mean Metaxylem Diameter:Metaxylem to Stele Ratio,Stele,1,0.009077,0.0090773,0.132177,13.2177,3251.93,3.8822,0.001,**
+CoV.Metaxylem.Diameter,Subfamily:Stele Diameter,Stele,10,0.02077,0.002077,0.302443,30.2443,744.1,5.2902,0.001,**
+CoV.Metaxylem.Diameter,Unexplained,Stele,,,,0.001057,0.1057,,,,
+Total.Metaxylem.Area,Stele Diameter,Stele,1,147568456,147568456,0.81607,81.607,6677.59,4.1154,0.001,**
+Total.Metaxylem.Area,Metaxylem to Stele Ratio,Stele,1,17066342,17066342,0.09438,9.438,772.27,4.1507,0.001,**
+Total.Metaxylem.Area,Mean Metaxylem Area,Stele,1,3823765,3823765,0.02115,2.115,173.03,3.7467,0.001,**
+Total.Metaxylem.Area,Number of Metaxylem Vessels,Stele,1,3747887,3747887,0.02073,2.073,169.59,4.0874,0.001,**
+Total.Metaxylem.Area,Mean Metaxylem Area:Number of Metaxylem Vessels,Stele,1,7583883,7583883,0.04194,4.194,343.18,4.1877,0.001,**
+Total.Metaxylem.Area,Unexplained,Stele,,,,0.00573,0.573,,,,
+Number.of.Metaxylem.Vessels,Total Metaxylem Area,Stele,1,5.7961,5.7961,0.245607,24.5607,59.2942,2.4083,0.001,**
+Number.of.Metaxylem.Vessels,Mean Metaxylem Diameter,Stele,1,6.4827,6.4827,0.274699,27.4699,66.3176,2.2936,0.001,**
+Number.of.Metaxylem.Vessels,Mean Metaxylem Area,Stele,1,1.6837,1.6837,0.071347,7.1347,17.2245,1.9499,0.003,**
+Number.of.Metaxylem.Vessels,CoV Metaxylem Diameter,Stele,1,2.1597,2.1597,0.091516,9.1516,22.0937,2.1386,0.001,**
+Number.of.Metaxylem.Vessels,Subfamily,Stele,10,1.6523,0.1652,0.070013,7.0013,1.6903,3.2486,0.001,**
+Number.of.Metaxylem.Vessels,Mean Endodermal Diameter,Stele,1,0.8955,0.8955,0.037946,3.7946,9.161,2.0994,0.001,**
+Number.of.Metaxylem.Vessels,Subfamily:Mean Endodermal Diameter,Stele,10,1.3861,0.1386,0.058736,5.8736,1.418,3.0945,0.001,**
+Number.of.Metaxylem.Vessels,Mean Metaxylem Diameter:Subfamily,Stele,5,1.3925,0.2785,0.059007,5.9007,2.8491,4.0575,0.001,**
+Number.of.Metaxylem.Vessels,Unexplained,Stele,,,,0.091129,9.1129,,,,
+Metaxylem.to.Stele.Ratio,Stele Area,Stele,1,0.0004834,0.00048339,0.12009,12.009,93.8694,2.4315,0.001,**
+Metaxylem.to.Stele.Ratio,Subfamily,Stele,10,0.0002913,0.00002913,0.07237,7.237,5.6571,5.7176,0.001,**
+Metaxylem.to.Stele.Ratio,Total Metaxylem Area,Stele,1,0.0004869,0.00048687,0.12096,12.096,94.5445,2.6622,0.001,**
+Metaxylem.to.Stele.Ratio,Stele Diameter,Stele,1,0.0017284,0.00172845,0.42941,42.941,335.6467,3.2475,0.001,**
+Metaxylem.to.Stele.Ratio,Stele Area:Subfamily,Stele,10,0.0004686,0.00004686,0.11643,11.643,9.1004,7.0483,0.001,**
+Metaxylem.to.Stele.Ratio,Total Metaxylem Area:Stele Diameter,Stele,1,0.0004223,0.00042234,0.10492,10.492,82.0134,3.6689,0.001,**
+Metaxylem.to.Stele.Ratio,Unexplained,Stele,,,,0.03582,3.582,,,,
+Median.Cells.per.Phloem.Cluster,Annual Mean Radiation,Stele,1,0.19728,0.19728,0.07836,7.836,10.4046,1.4344,0.021,*
+Median.Cells.per.Phloem.Cluster,Mean Moisture Index Coldest Quarter,Stele,1,0.13948,0.13948,0.05541,5.541,7.3565,1.3237,0.038,*
+Median.Cells.per.Phloem.Cluster,Precip Wettest Week,Stele,1,0.46598,0.46598,0.18509,18.509,24.576,1.9577,0.001,**
+Median.Cells.per.Phloem.Cluster,Subfamily,Stele,10,0.17114,0.01711,0.06798,6.798,0.9026,1.9627,0.028,*
+Median.Cells.per.Phloem.Cluster,Subfamily:Mean Moisture Index Wettest Quarter,Stele,10,1.00576,0.10058,0.3995,39.95,5.3045,3.2651,0.001,**
+Median.Cells.per.Phloem.Cluster,Unexplained,Stele,,,,0.21089,21.089,,,,
