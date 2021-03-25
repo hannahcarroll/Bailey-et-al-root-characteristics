@@ -1,1 +1,1 @@
-# All raw data, data summaries, bioclimatic variables, and R code used in analyses for Cox et al. in prep
+# All raw data, data summaries, bioclimatic variables, and R code used in analyses for Bailey et al. in prep
